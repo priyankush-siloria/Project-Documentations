@@ -1,8 +1,8 @@
 # The first largest heading tag.
 > Quote 1.
-    > Quote 2.
-    > Quote 3.
-    > Quote 4.
+> Quote 2.
+> Quote 3.
+> Quote 4.
 ## The second largest heading tag.
 ### The third largest heading tag.
 #### The third smallest heading tag.
