@@ -22,6 +22,8 @@
 
 __This text is also bold.__
 
+----------------------------------------------------------------------
+
 <!-- End -->
 
 <!-- Start -->
@@ -33,6 +35,7 @@ __This text is also bold.__
 
 _This text is also italic._
 
+----------------------------------------------------------------------
 <!-- End -->
 
 <!-- Start -->
@@ -40,6 +43,7 @@ _This text is also italic._
 
 ~~This text is Strikethrough.~~
 
+----------------------------------------------------------------------
 <!-- End -->
 
 <!-- Start -->
@@ -47,6 +51,7 @@ _This text is also italic._
 
 **Text is bold but this word is _italic_.**
 
+----------------------------------------------------------------------
 <!-- End -->
 
 <!-- Start -->
@@ -54,11 +59,13 @@ _This text is also italic._
 
 ***Whole text bold and italic.***
 
+----------------------------------------------------------------------
 <!-- End -->
 
 <!-- Start -->
 > Text with Quote.
 
+----------------------------------------------------------------------
 <!-- End -->
 
 <!-- Start -->
@@ -66,6 +73,7 @@ _This text is also italic._
 
 This is a `Backticks` text.
 
+----------------------------------------------------------------------
 <!-- End -->
 
 <!-- Start -->
@@ -79,6 +87,7 @@ b = 6
 c = a + b
 ```
 
+----------------------------------------------------------------------
 <!-- End -->
 
 <!-- Start -->
@@ -104,6 +113,7 @@ let without_mention = your_name();
 console.log(without_mention);
 ```
 
+----------------------------------------------------------------------
 <!-- End -->
 
 <!-- Start -->
@@ -114,6 +124,7 @@ console.log(without_mention);
 
 Google Link [Google](https://www.google.com)
 
+----------------------------------------------------------------------
 <!-- End -->
 
 <!-- Start -->
@@ -125,6 +136,7 @@ Google Link [Google](https://www.google.com)
 
 ![Dummy Image](https://source.unsplash.com/user/c_v_r/1900x800)
 
+----------------------------------------------------------------------
 <!-- End -->
 
 <!-- Start -->
@@ -140,6 +152,7 @@ Google Link [Google](https://www.google.com)
 [^3]: Heading 3.
 [^4]: Heading 4.
 
+----------------------------------------------------------------------
 <!-- End -->
 
 <!-- Start -->
@@ -193,6 +206,7 @@ Google Link [Google](https://www.google.com)
         - Nested Item 1.
         * Nested Item 1.
 
+----------------------------------------------------------------------
 <!-- End -->
 
 <!-- Start -->
@@ -204,4 +218,5 @@ Google Link [Google](https://www.google.com)
 - [X] Done.
 - [ ] Pending.
 
+----------------------------------------------------------------------
 <!-- End -->
