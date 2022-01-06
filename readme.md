@@ -78,5 +78,15 @@ console.log(without_mention);
 
     - `[]` place the link text inside square braces.
     - `()` place the URL inside round braces.
-    
+
 Google Link [Google](https://www.google.com)
+
+https://source.unsplash.com/user/c_v_r/1900x800
+
+> For adding a image link, also showing image. Use the following parameters:
+
+    - `[]` place the link text inside square braces.
+    - `()` place the URL inside round braces.
+    - `!` add this symbol before the square braces.
+
+Google Link ![Dummy Image](https://source.unsplash.com/user/c_v_r/1900x800)
