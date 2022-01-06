@@ -1,3 +1,4 @@
+> Headings --> Largest to Smallest
 # The first largest heading tag.
 ## The second largest heading tag.
 ### The third largest heading tag.
@@ -5,22 +6,34 @@
 ##### The second smallest heading tag.
 ###### The first smallest heading tag.
 
+> Bold with `**`
 **This text is bold.**
+
+> Bold with `__`
 __This text is also bold.__
 
-*This text is bold.*
-_This text is also bold._
 
+> Italic with `*`
+*This text is italic.*
+
+> Italic with `_`
+_This text is also italic._
+
+> Strike Through
 ~~This text is Strikethrough.~~
 
+> Bold with Italic
 **Text is bold but this word is _italic_.**
 
+> Whole text bold and italic
 ***Whole text bold and italic.***
 
 > Text with Quote.
 
+> Highlighted
 This is a `Backticks` text.
 
+> Fenced Code Block
 Use triple (```) - (fenced code block) for format the code on its own distinct block.
 
 ```
@@ -29,10 +42,8 @@ b = 6
 c = a + b
 ```
 
-If you want to make the block as language specific. Please add the language identifier (name) after the fenced code block.
-
+> If you want to make the block as language specific. Please add the language identifier (name) after the fenced code block.
 > Example for python
-
 ```python
 def sample(*args) -> int:
     total: int = 0
@@ -41,7 +52,6 @@ def sample(*args) -> int:
 ```
 
 > Example for JavaScript
-
 ```javascript
 function your_name(name="Dummy") {
     return name;
@@ -53,4 +63,7 @@ let without_mention = your_name();
 console.log(without_mention);
 ```
 
+> For adding a link. Use the following parameters:
+    - `[]` place the link text inside square braces.
+    - `()` place the URL inside round braces.
 Google Link [Google](https://www.google.com)
