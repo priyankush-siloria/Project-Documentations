@@ -271,7 +271,18 @@ Google Link [Google](https://www.google.com)
     </summary>
     <div>
         <ol>
-            <li>Item 1</li>
+            <li>
+            <details>
+                <summary>
+                    For Print Function
+                </summary>
+                <div>
+                    ```python
+                    print("Hello World!")
+                    ```
+                </div>
+            </details>
+            </li>
             <li>Item 2</li>
             <li>Item 3</li>
             <li>Item 4</li>
