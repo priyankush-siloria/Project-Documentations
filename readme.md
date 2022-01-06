@@ -242,9 +242,9 @@ Google Link [Google](https://www.google.com)
 <!-- Start -->
 > Table with Text Align
 
-    - Left
-    - Center
-    - Right
+    - Left, using `:` colon, before `-` hyphen. Example `:---`
+    - Center, using `:` colon, both-side `-` hyphen. Example `:---:`
+    - Right, using `:` colon, after `-` hyphen. Example `---:`
 
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | :--- | :---: | :---: | ---: |
