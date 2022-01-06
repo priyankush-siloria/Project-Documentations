@@ -23,7 +23,7 @@ This is a `Backticks` text.
 
 Use triple (```) for format the code on its own distinct block.
 
-```
+```python
 a = 5
 b = 6
 c = a + b
