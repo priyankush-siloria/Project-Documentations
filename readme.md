@@ -87,7 +87,15 @@ Google Link [Google](https://www.google.com)
     - `()` place the URL inside round braces.
     - `!` add this symbol before the square braces.
 
+![Dummy Image](https://source.unsplash.com/user/c_v_r/1900x800)
+
+> Light Theme
+
 ![Dummy Image](https://source.unsplash.com/user/c_v_r/1900x800#gh-light-mode-only)
+
+> Dark Theme
+
+![Dummy Image](https://source.unsplash.com/user/c_v_r/1900x800#gh-dark-mode-only)
 
 
 > Foot Notes
