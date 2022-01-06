@@ -14,3 +14,5 @@ _This text is also bold._
 ~~This text is Strikethrough.~~
 
 **Text is bold but this word is _italic_.**
+
+***Whole text bold and italic.***
