@@ -92,7 +92,7 @@ Google Link [Google](https://www.google.com)
 
 > Foot Notes
 
-[^1] Heading 1.
-[^2] Heading 1.
-[^3] Heading 1.
-[^4] Heading 1.
+[^1]: Heading 1.
+[^2]: Heading 2.
+[^3]: Heading 3.
+[^4]: Heading 4.
