@@ -21,7 +21,10 @@ _This text is also bold._
 
 This is a `Backticks` text.
 
+Use triple (```) for format the code on its own distinct block.
+
 ```
-> Hello
-> Hello
+a = 5
+b = 6
+c = a + b
 ```
