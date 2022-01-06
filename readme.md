@@ -89,15 +89,6 @@ Google Link [Google](https://www.google.com)
 
 ![Dummy Image](https://source.unsplash.com/user/c_v_r/1900x800)
 
-> Light Theme
-
-![Dummy Image](https://source.unsplash.com/user/c_v_r/1900x800#gh-light-mode-only)
-
-> Dark Theme
-
-![Dummy Image](https://source.unsplash.com/user/c_v_r/1900x800#gh-dark-mode-only)
-
-
 > Foot Notes
 
 - Sample 1[^1].
@@ -110,3 +101,20 @@ Google Link [Google](https://www.google.com)
 [^3]: Heading 3.
 [^4]: Heading 4.
 
+> List
+
+> Unordered list with `-`
+
+- Item 1.
+- Item 2.
+- Item 3.
+- Item 4.
+- Item 5.
+
+> Unordered list with `*`
+
+* Item 1.
+* Item 2.
+* Item 3.
+* Item 4.
+* Item 5.
