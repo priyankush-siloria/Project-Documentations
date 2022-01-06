@@ -75,6 +75,8 @@ console.log(without_mention);
 ```
 
 > For adding a link. Use the following parameters:
+
     - `[]` place the link text inside square braces.
     - `()` place the URL inside round braces.
+    
 Google Link [Google](https://www.google.com)
