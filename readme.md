@@ -258,11 +258,26 @@ Google Link [Google](https://www.google.com)
 ----------------------------------------------------------------------
 <!-- End -->
 
+<!-- Start -->
+
+> Collapsed Sections
+
+    - Using `<details></details>` Tag.
+    - Using `<summary></summary>` Tag for add click text.
+
 <details>
-<summary>
-Click Me
-</summary>
-<p>
-Hello
-</p>
+    <summary>
+        Click for show python code
+    </summary>
+    <div>
+        <ol>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+            <li>Item 4</li>
+            <li>Item 5</li>
+        </ol>
+    </div>
 </details>
+
+<!-- End -->
