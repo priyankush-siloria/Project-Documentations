@@ -31,9 +31,23 @@ c = a + b
 
 If you want to make the block as language specific. Please add the language identifier (name) after the fenced code block.
 
+> Example for python
+
 ```python
 def sample(*args) -> int:
     total: int = 0
     for element in args: total += element
     else: return total
+```
+
+> Example for JavaScript
+```javascript
+function your_name(name="Dummy") {
+    return name;
+};
+
+let with_mention = your_name("Sample User");
+console.log(with_mention);
+let without_mention = your_name();
+console.log(without_mention);
 ```
