@@ -19,4 +19,4 @@ _This text is also bold._
 
 > Text with Quote.
 
-`Sample`
+This is a `Backticks` text.
