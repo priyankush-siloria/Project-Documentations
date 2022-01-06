@@ -7,3 +7,6 @@
 
 **This text is bold.**
 __This text is also bold.__
+
+*This text is bold.*
+_This text is also bold._
