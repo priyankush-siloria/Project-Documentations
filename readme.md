@@ -100,4 +100,7 @@ Google Link [Google](https://www.google.com)
 
 [^4]: Heading 4.
 
-Sample[^1].
+Sample 1[^1].
+Sample 2[^2].
+Sample 3[^3].
+Sample 4[^4].
