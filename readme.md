@@ -90,4 +90,9 @@ Google Link [Google](https://www.google.com)
 ![Dummy Image](https://source.unsplash.com/user/c_v_r/1900x800)
 
 
-Here is a simple footnote[^1].
+> Foot Notes
+
+[^1] Heading 1.
+[^2] Heading 1.
+[^3] Heading 1.
+[^4] Heading 1.
