@@ -156,6 +156,5 @@ Google Link [Google](https://www.google.com)
     - Add empty square braces `[ ]` with space inside braces to make test pending.
     - Add square braces `[X]` with `X` inside braces to make test complete.
 
-- [ ] Pending.
-
 - [X] Done.
+- [ ] Pending.
