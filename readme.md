@@ -238,3 +238,22 @@ Google Link [Google](https://www.google.com)
 
 ----------------------------------------------------------------------
 <!-- End -->
+
+<!-- Start -->
+> Table with Text Align
+
+    - Left
+    - Center
+    - Right
+
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| :--- | :---: | :---: | ---: |
+| Something write here. | Nothing. | Hello, this is dummy. | This is nothing. |
+| Nothing. | Something write here. | This is nothing. | Hello, this is dummy. |
+| Something write here. | Nothing. | Hello, this is dummy. | This is nothing. |
+| Nothing. | Something write here. | This is nothing. | Hello, this is dummy. |
+| Something write here. | Nothing. | Hello, this is dummy. | This is nothing. |
+| Nothing. | Something write here. | This is nothing. | Hello, this is dummy. |
+
+----------------------------------------------------------------------
+<!-- End -->
