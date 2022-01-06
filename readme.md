@@ -43,6 +43,7 @@ c = a + b
 ```
 
 > If you want to make the block as language specific. Please add the language identifier (name) after the fenced code block.
+
 > Example for python
 ```python
 def sample(*args) -> int:
