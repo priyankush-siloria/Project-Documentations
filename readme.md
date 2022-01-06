@@ -1,5 +1,4 @@
 # The first largest heading tag.
-    . hello
 ## The second largest heading tag.
 ### The third largest heading tag.
 #### The third smallest heading tag.
@@ -13,3 +12,5 @@ __This text is also bold.__
 _This text is also bold._
 
 ~~This text is Strikethrough.~~
+
+**Text is bold but this word is _italic_.*
