@@ -275,10 +275,12 @@ Google Link [Google](https://www.google.com)
 <summary>How to define function</summary>
     
 <p>
-    ```python
-      def function_name():
+
+```python
+    def function_name():
         return
-    ```
+
+```
 </p>
 
 </details>
