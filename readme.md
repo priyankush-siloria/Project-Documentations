@@ -41,6 +41,7 @@ def sample(*args) -> int:
 ```
 
 > Example for JavaScript
+
 ```javascript
 function your_name(name="Dummy") {
     return name;
@@ -51,3 +52,5 @@ console.log(with_mention);
 let without_mention = your_name();
 console.log(without_mention);
 ```
+
+Google Link [Google](https://www.google.com)
