@@ -153,5 +153,5 @@ Google Link [Google](https://www.google.com)
 
 > Task List
 
-- [ ] Pending.
+- [] Pending.
 - [x] Done.
