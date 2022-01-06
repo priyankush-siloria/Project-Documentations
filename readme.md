@@ -21,10 +21,19 @@ _This text is also bold._
 
 This is a `Backticks` text.
 
-Use triple (```) for format the code on its own distinct block.
+Use triple (```) - (fenced code block) for format the code on its own distinct block.
 
-```python
+```
 a = 5
 b = 6
 c = a + b
+```
+
+If you want to make the block as language specific. Please add the language identifier (name) after the fenced code block.
+
+```python
+def sample(*args) -> int:
+    total: int = 0
+    for element in args: total += element
+    else: return total
 ```
