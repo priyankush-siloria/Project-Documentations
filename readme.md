@@ -92,15 +92,13 @@ Google Link [Google](https://www.google.com)
 
 > Foot Notes
 
+- Sample 1[^1].
+- Sample 2[^2].
+- Sample 3[^3].
+- Sample 4[^4].
+
 [^1]: Heading 1.
-
 [^2]: Heading 2.
-
 [^3]: Heading 3.
-
 [^4]: Heading 4.
 
-Sample 1[^1].
-Sample 2[^2].
-Sample 3[^3].
-Sample 4[^4].
