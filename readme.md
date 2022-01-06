@@ -277,8 +277,66 @@ Google Link [Google](https://www.google.com)
 <p>
 
 ```python
+    # Without Parameter
     def function_name():
         return
+    
+    # With Parameter
+    def function_name(param_1, param_1):
+        return
+    
+    # With Default Parameter
+    def function_name(param_1, default_param=None):
+        return
+    
+    # Asterisk
+    def function_name(*args*):
+        return
+    
+    # Double Asterisk (Dictionary)
+    def function_name(**kwargs):
+        return
+
+```
+</p>
+
+</details>
+
+</div>
+
+<div>
+
+<details>
+<summary>How to define class</summary>
+    
+<p>
+
+```python
+    class ClassName:
+        # Class Attributes
+        class_attribute_1 = None
+        class_attribute_2 = None
+
+        # Constructor
+        def __init__(self):
+            # Instance Attributes
+            self.instance_attribute_1 = None
+            self.instance_attribute_2 = None
+        
+        # Instance Method
+        def instance_method(self):
+            return
+        
+        # Class Method
+        @classmethod
+        def class_method(self):
+            return
+        
+        # Static Method
+        @staticmethod
+        def static_method():
+            return
+
 
 ```
 </p>
