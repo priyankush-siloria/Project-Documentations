@@ -152,6 +152,8 @@ Google Link [Google](https://www.google.com)
         * Nested Item 1.
 
 > Task List
+    - Add empty square braces `[ ]` with space inside braces to make test pending.
+    - Add square braces `[X]` with `X` inside braces to make test complete.
 
-- [] Pending.
-- [x] Done.
+- [ ] Pending.
+- [X] Done.
