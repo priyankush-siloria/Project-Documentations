@@ -267,18 +267,24 @@ Google Link [Google](https://www.google.com)
     - Using this you can use HTML code also.
 
 <details>
-    <summary>
-        CLICK ME
-    </summary>
+<summary>Click for show python code</summary>
+
+<div>
+
+<details>
+<summary>How to define function</summary>
+    
 <p>
-
-#### We can hide anything, even code!
-
-    ```ruby
-      puts "Hello World"
+    ```python
+      def function_name():
+        return
     ```
-
 </p>
+
+</details>
+
+</div>
+
 </details>
 
 <!-- End -->
