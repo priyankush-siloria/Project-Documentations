@@ -264,31 +264,21 @@ Google Link [Google](https://www.google.com)
 
     - Using `<details></details>` Tag.
     - Using `<summary></summary>` Tag for add click text.
+    - Using this you can use HTML code also.
 
 <details>
     <summary>
-        Click for show python code
+        CLICK ME
     </summary>
-    <div>
-        <ol>
-            <li>
-            <details>
-                <summary>
-                    For Print Function
-                </summary>
-                <div>
-                    ```python
-                    print("Hello World!")
-                    ```
-                </div>
-            </details>
-            </li>
-            <li>Item 2</li>
-            <li>Item 3</li>
-            <li>Item 4</li>
-            <li>Item 5</li>
-        </ol>
-    </div>
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
 </details>
 
 <!-- End -->
